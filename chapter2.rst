@@ -14,3 +14,10 @@ orange light of the setting sun. Gerrit walked slowly cherishing the moment.
 When he finally entered the room he was aghast to see Jenkins sitting in the
 PTL’s chair smiling at him.
 
+Gerrit was busy thinking how inconceivable it is for Jenkins to smile, when he
+started to talk: "Thanks to you Gerrit I am now the plant's talent locator, and
+I want YOU for the next plat's big thing". Jenkins started preaching about the
+next big thing and Gerrit's karma, while pointing his blaming finger at him.
+Pointing the same way he used to point at his buggy code when he found it.
+By now, the smile left Jenkin's face, and Gerrit woke up with the word YOU
+resonating in his head.
