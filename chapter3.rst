@@ -14,7 +14,7 @@ pointy shoulder blades under her long dress. While they have been together for
 six years now, Gerrit was still surprised from time to time that he is not
 single anymore.
 
- “I think I will go to the CORE’s club”, he called after her, “you know, to
+“I think I will go to the CORE’s club”, he called after her, “you know, to
 catch up”. Gerrit expected the usual answer of “nothing creative, original or
 revolutionary came from there for a long time now”. Instead, he heard Nova
 replying: “I can tell you what’s been going on”.
