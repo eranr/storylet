@@ -9,13 +9,16 @@ more of them lately”, she added. Gerrit imagined hearing a sad tone in her
 voice. “You should be happy”, he said thinking of the growing karma the
 dockworkers must have. “I know” Nova answered with that same tone. “I am making
 some coffee do you want some?” Nova asked. Gerrit nodded and watched her as she
-left for the kitchen. He could clearly see the stripe of her bra below her
-pointy shoulder blades under her long dress. While they have been together for
+left for the kitchen. He noted the stripe of her bra below her pointy shoulder
+blades under her long summer dress. While they have been together for
 six years now, Gerrit was still surprised from time to time that he is not
 single anymore.
 
-“I think I will go to the CORE’s club”, he called after her, “you know, to
-catch up”. Gerrit expected the usual answer of “nothing creative, original or
-revolutionary came from there for a long time now”. Instead, he heard Nova
-replying: “I can tell you what’s been going on”.
+“I think I will go to the CORE’s club”, he called after her, “I want to
+catch up and am thirsty for a well poured pint after all those flies”. Gerrit
+knew Nova hated the place, with the major reason being “nothing creative,
+original or revolutionary came from there for a long time now”. Gerrit also
+expected her answer: "You know there is nothing new, just more newbies looking
+for karma."
 
+Gerrit drank his coffee, gave Nova a light kiss and left for the club.
