@@ -15,7 +15,7 @@ six years now, Gerrit was still surprised from time to time that he is not
 single anymore.
 
 “I think I will go to the CORE’s club”, he called after her, “I want to
-catch up and am thirsty for a well poured pint after all those flies”. Gerrit
+catch up and could use a well poured pint after all those flies”. Gerrit
 knew Nova hated the place, with the major reason being “nothing creative,
 original or revolutionary came from there for a long time now”. Gerrit also
 expected her answer: "You know there is nothing new, just more newbies looking
