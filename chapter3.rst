@@ -22,3 +22,7 @@ expected her answer: "You know there is nothing new, just more newbies looking
 for karma."
 
 Gerrit drank his coffee, gave Nova a light kiss and left for the club.
+
+Gerrit and Nova have been there pretty much from the beginning. Before the
+plant, the talent locators and the karma. It all rapidly grew around them almost
+without noticing, until they felt suffocated. Still, they could not leave.
