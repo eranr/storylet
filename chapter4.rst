@@ -17,7 +17,8 @@ saying.
 
 “Give me a pint, and PLEASE do not pour it yourself”, Gerrit barked at the
 serving bot.
-“Sure sir, the usual?” the irritating machine replied.
+“Sure sir, the usual?” the 'poor step for beer and questionable step for
+technology' machine replied.
 Swift grinned; “won’t help ya, they are all the same model and always running
 the latest patch, the heavy one is actually proud about it”.
 “Yes, the usual” Gerrit replied and got seated.
