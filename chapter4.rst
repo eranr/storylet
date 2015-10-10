@@ -10,16 +10,21 @@ him. Gerrit liked Swift. Although he was very self-satisfied, he could not to
 care less about his karma, and was really enthusiastic about his work.  
 
 “Did a Jenkins job”, Gerrit replied.
+
 “So its because of you that its down for the past few days?”
+
 “Yeah”, Gerrit answered gloomily, “I actually thought I did a good job, turned
 out to be too good”, too good is bad for the karma Gerrit thought without
 saying.
 
 “Give me a pint, and PLEASE do not pour it yourself”, Gerrit barked at the
 serving bot.
+
 “Sure sir, the usual?” the 'poor step for beer and questionable step for
 technology' machine replied.
+
 Swift grinned; “won’t help ya, they are all the same model and always running
 the latest patch, the heavy one is actually proud about it”.
+
 “Yes, the usual” Gerrit replied and got seated.
 
