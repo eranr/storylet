@@ -1,28 +1,57 @@
-Gerrit woke up in his flat that was located in the west side of the plant
-looking at the port. Nova was not there when he woke up. She must be working on
-her karma he thought as he got up and looked down at the harbor. There was an
-unusual traffic of dockworkers unloading containers. Strangely, he could neither
-see nor here any seagulls, only those silent containers everywhere.
+The CORE’s club was a 24 by 7 hookah bar designed in a cheap oriental taste. The
+air was thick with sweet smells that would stick to your clothing forever. A
+loud instrumental fusion of jazz, oriental and pop music was endlessly played in
+the background. From time to time players would perform the exact same thing
+live, straining on every bit.
 
-“Hi” he heard Nova’s soft voice behind him, “There seem to be coming more and
-more of them lately”, she added. Gerrit imagined hearing a sad tone in her
-voice. “You should be happy”, he said thinking of the growing karma the
-dockworkers must have. “I know” Nova answered with that same tone. “I am making
-some coffee do you want some?” Nova asked. Gerrit nodded and watched her as she
-left for the kitchen. He noted the stripe of her bra below her pointy shoulder
-blades under her long summer dress. While they have been together for
-six years now, Gerrit was still surprised from time to time that he is not
-single anymore.
+"Where have you been”, Gerrit heard a shout in his direction. Gerrit looked
+around and saw Swift taking a long deep and slow inhale before smiling smugly at
+him. Gerrit liked Swift. Although he was very self-satisfied, he could not
+care less about his karma, and was really enthusiastic about his work. No,
+Swift is certainly not a corporate drone, although Gerrit could not tell what
+he is.
 
-“I think I will go to the CORE’s club”, he called after her, “I want to
-catch up and could use a well poured pint after all those flies”. Gerrit
-knew Nova hated the place, with the major reason being “nothing creative,
-original or revolutionary came from there for a long time now”. Gerrit also
-expected her answer: "You know there is nothing new, just more newbies looking
-for karma."
+“Did a Jenkins job”, Gerrit replied.
 
-Gerrit drank his coffee, gave Nova a light kiss and left for the club.
+“So its because of you that its down for the past few days?”
 
-Gerrit and Nova have been there pretty much from the beginning. Before the
-plant, the talent locators and the karma. It all rapidly grew around them almost
-without noticing, until they felt suffocated. Still, they could not leave.
+“Yeah”, Gerrit answered gloomily, “I actually thought I did a good job, turned
+out to be too good”, too good is bad for the karma Gerrit thought without
+saying.
+
+“Give me a pint, and PLEASE do not pour it yourself”, Gerrit barked at the
+serving bot.
+
+“Sure sir, the usual?” that 'poor step for beer and questionable step for
+technology' machine replied.
+
+Swift grinned; “won’t help ya, they are all the same model and always running
+the latest patch, the heavy one is actually proud about it”.
+
+“Yes, the usual” Gerrit replied and got himself seated.
+
+The “heavy one” was Glance, the owner of the greasy joint. He has been there
+even before Gerrit and Nova. At some point he got tired and switched to
+developing these serving bots.
+
+Some people say he had major disagreements with the former PTL after which
+Glance left his position, and the former PLT the plant.
+
+While the hookah bar started off as a mere excuse to test those bots, Glance
+shortly fell in love with it. The fact that 'the COREs' became the devs favorite
+hangout place must have helped. Having all the newbies around did not
+do any good to the place, Gerrit reckoned.
+
+“What’s up guys”, Glance was approaching them. On his belt there was a huge ring with several identical stone keys.
+“What’s with the keys, Glance?” Swift asked.
+“I carve a new one each time I give life to a new bot” Glance answered with a large smile (exposing his hookah smoking teeth).
+“I already have 8 of them”
+They could not miss the pride that was all over Glance as he said that.
+
+"So, what happened with that Jenkins job of yours". So everybody know by now, Gerrit thought.
+
+"What did you think", Glance added looking on Gerrit's face, "If Jenkins is out of order then
+no karma for no one".
+
+"Better for no one then for some", Gerrit answered grimming. Swift laughed loudly at that.
+
