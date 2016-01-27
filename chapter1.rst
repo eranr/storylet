@@ -21,10 +21,13 @@ until they felt suffocated. Still, they could not leave.
 
 “I think I will go to the CORE’s club”, he called after her, “I want to
 catch up and could use a well poured pint after all those flies”. Gerrit
-knew Nova hated the place, with the major reason being “nothing creative,
+knew Nova hated the place, she used to say that “nothing creative,
 original or revolutionary came from there for a long time now”. Gerrit also
 expected her answer: "You know there is nothing new, just more newbies looking
-for karma."
+for karma." Gerrit knew Nova enough by now not to be fooled by her 'rational'
+objection to the place. It would take him few more years though to realize that
+the club merely representerd Nova's tragedy of being a minority in this
+testosterone dominated manly environment. In several more years he would realize
+it was also his tragedy.
 
-Gerrit drank his coffee, gave Nova a light kiss and left for the club.
-
+Gerrit gave Nova a light kiss and left for the club.

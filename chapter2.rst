@@ -25,8 +25,8 @@ serving bot.
 “Sure sir, the usual?” that 'poor step for beer and questionable step for
 technology' machine replied.
 
-Swift grinned; “won’t help ya, they are all the same model and always running
-the latest patch, the heavy one is actually proud about it”.
+Swift grinned; “won’t help ya, they are all the same model and are always
+running the latest patch. The heavy one is actually proud about it”.
 
 “Yes, the usual” Gerrit replied and got himself seated.
 
@@ -40,7 +40,7 @@ Glance left his position, and the former PLT the plant.
 While the hookah bar started off as a mere excuse to test those bots, Glance
 shortly fell in love with it. The fact that 'the COREs' became the devs favorite
 hangout place must have helped. Having all the newbies around did not
-do any good to the place, Gerrit reckoned.
+do any good to the placei though, Gerrit reckoned.
 
 “What’s up guys”, Glance was approaching them. On his belt there was a huge ring with several identical stone keys.
 “What’s with the keys, Glance?” Swift asked.
@@ -55,3 +55,6 @@ no karma for no one".
 
 "Better for no one then for some", Gerrit answered grimming. Swift laughed loudly at that.
 
+Hearing them talking about Jenkins being down, few newbis gathered around them. Usually,
+Gerrit would not mind them, but now he noticed Magnum. Magnum was one of the PLT's new
+padawans and Gerrit's room mate...
