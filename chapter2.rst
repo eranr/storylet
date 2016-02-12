@@ -13,7 +13,7 @@ he is.
 
 “Did a Jenkins job”, Gerrit replied.
 
-“So its because of you that its down for the past few days?”
+“So its because of you that he is down for the past few days?”
 
 “Yeah”, Gerrit answered gloomily, “I actually thought I did a good job, turned
 out to be too good”, too good is bad for the karma Gerrit thought without
@@ -40,21 +40,28 @@ Glance left his position, and the former PLT the plant.
 While the hookah bar started off as a mere excuse to test those bots, Glance
 shortly fell in love with it. The fact that 'the COREs' became the devs favorite
 hangout place must have helped. Having all the newbies around did not
-do any good to the placei though, Gerrit reckoned.
+do any good to the place though, Gerrit reckoned.
 
-“What’s up guys”, Glance was approaching them. On his belt there was a huge ring with several identical stone keys.
-“What’s with the keys, Glance?” Swift asked.
-“I carve a new one each time I give life to a new bot” Glance answered with a large smile (exposing his hookah smoking teeth).
-“I already have 8 of them”
+“What’s up guys”, Glance was approaching them. On his belt there was a huge ring
+with several identical stone keys. “What’s with the keys, Glance?” Swift asked.
+“I carve a new one each time I give life to a new bot” Glance answered with a
+large smile (exposing his hookah smoking teeth). “I already have 8 of them”
 They could not miss the pride that was all over Glance as he said that.
 
-"So, what happened with that Jenkins job of yours". So everybody know by now, Gerrit thought.
+"So, what happened with that Jenkins job of yours?", Glance asked.
+So everybody know by now, Gerrit thought.
 
 "What did you think", Glance added looking on Gerrit's face, "If Jenkins is out of order then
 no karma for no one".
 
 "Better for no one then for some", Gerrit answered grimming. Swift laughed loudly at that.
 
-Hearing them talking about Jenkins being down, few newbis gathered around them. Usually,
-Gerrit would not mind them, but now he noticed Magnum. Magnum was one of the PLT's new
-padawans and Gerrit's room mate.
+Hearing them talking about Jenkins, few of the newbis gathered around them. Usually,
+Gerrit would not mind them, but now he noticed Magnum amongst them. Magnum was one of
+the PLT's new padawans and Gerrit's room mate.
+
+Gerrit was once himself a PTL's padawan. Watching Magnum, Gerrit could almost feel again the
+big promise in being not only a chosen one, but the PTL's chosen one. Learning by now that
+expectations always exceeded the real thing, Magnum mainly evoked his youth longing.
+
+Glance put his hand on Gerrit's shoulder and said sympathetically "Come, let me show you something".
