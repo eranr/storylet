@@ -16,8 +16,8 @@ he did not have.
 
 It has been six years now that they are together, and they have been there
 together pretty much from the beginning: Before the plant, the talent locators
-and the karma. Almost without noticing it all grew very rapidly around them
-until they felt suffocated. Still, they could not leave.
+and the karma. Almost without noticing it all grew very rapidly and worstly around
+them. Yet the thought of leaving has not even occured to them.
 
 “I think I will go to the CORE’s club”, he called after her, “I want to
 catch up and could use a well poured pint after all those flies”. Gerrit

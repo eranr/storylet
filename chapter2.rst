@@ -57,4 +57,4 @@ no karma for no one".
 
 Hearing them talking about Jenkins being down, few newbis gathered around them. Usually,
 Gerrit would not mind them, but now he noticed Magnum. Magnum was one of the PLT's new
-padawans and Gerrit's room mate...
+padawans and Gerrit's room mate.
